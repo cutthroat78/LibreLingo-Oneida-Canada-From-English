@@ -1,7 +1,7 @@
 # Librelingo-Oneida-From-English
 A Librelingo Course to learn the Oneida Language from English
 
-Plan
+# Plan
 - [ ] vocabulary 1:
 - [ ] colours
 - [ ] numbers (1-10)
