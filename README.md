@@ -3,9 +3,9 @@ A Librelingo Course to learn the Oneida Language from English
 
 # Plan
 - [ ] vocabulary 1:
-- [ ] colours
-- [ ] numbers (1-10)
 - [ ] greetings
+- [ ] numbers (1-10)
+- [ ] colours
 - [ ] _
 - [ ] grammar 1:
 - [ ] writing system
@@ -134,6 +134,49 @@ A Librelingo Course to learn the Oneida Language from English
 - [ ] weather
 - [ ] whole actions
 - [ ] working with the environment
+## Memrise
+### Basic Oneida 1
+- [ ] Greetings
+- [ ] Phrases
+- [ ] Expressions
+- [ ] Commands
+- [ ] Seasons
+- [ ] Winter Words
+- [ ] Family Words
+- [ ] Colours
+- [ ] Beach Words
+- [ ] Love words
+- [ ] Cultural words
+- [ ] Bedroom Words
+### Oneida (Ukwehuwehnéha) Basic
+- [ ] Sounds of letters
+- [ ] Greetings
+- [ ] Introducing yourself
+- [ ] Asking questions
+- [ ] Clans & Nationalities
+- [ ] Numbers
+- [ ] Colours
+- [ ] Days of the week + time particles
+- [ ] Month of the year 
+- [ ] Places
+- [ ] Places part 2
+- [ ] Parts of the body
+- [ ] Animals
+- [ ] Birds
+- [ ] Bugs
+- [ ] Family
+- [ ] Food
+- [ ] Nature
+- [ ] Seasons
+### Oneida Langauge Study
+- [ ] Greetings
+- [ ] Table Talk
+- [ ] More table talk
+- [ ] At the community
+- [ ] Numbers
+- [ ] Describing people
+- [ ] Commands
+- [ ] Say & want
 
 # Sources
 ## Vocab/Words:
@@ -149,3 +192,4 @@ A Librelingo Course to learn the Oneida Language from English
 * [About the Oneida Langage - Oneida Language - UW - Green Bay](https://www.uwgb.edu/oneida/about-the-oneida-langage/)
 * [Speak Oneida - Part 1](https://play.google.com/store/apps/details?id=com.languagepal.androidoneidawisconsin&hl=en&gl=US)
 * [Speak Oneida 2](https://play.google.com/store/apps/details?id=com.languagepal.oneida2android)
+* [Omniglot](http://omniglot.com/writing/oneida.htm)
