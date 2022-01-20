@@ -6,7 +6,7 @@ Plan
 - [ ] colours
 - [ ] numbers (1-10)
 - [ ] greetings
-- [ ] 
+- [ ] _
 - [ ] grammar 1:
 - [ ] writing system
 - - [ ] Remember to add alternative symbols to intro pronunciation guide
