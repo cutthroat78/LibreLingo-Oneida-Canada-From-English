@@ -11,12 +11,6 @@ A Librelingo Course to learn the Oneida Language from English
 - [ ] writing system
 - - [ ] Remember to add alternative symbols to intro pronunciation guide
 - - [ ] Standardize Symbols (Like change words, phrases and everything else to have the glottal stop sounds be "ʔ" instead of "’")
-- 
-
-(UW)
-(OLC)
-(UW & OLC)
-
 
 # Vocab Topics
 ## oneidalanguage.ca:
@@ -74,7 +68,6 @@ A Librelingo Course to learn the Oneida Language from English
 - [ ] morning routine
 - [ ] Name titles
 - [ ] Nature
-- [ ] g
 - [ ] Objects
 - [ ] office reception
 - [ ] Oneida Language Proficiency
