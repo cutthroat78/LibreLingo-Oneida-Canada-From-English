@@ -2,4 +2,4 @@ Module:
   Name: "Vocabulary 1"
 
 Skills: 
-  - _.yaml
+  - greetings.yaml
