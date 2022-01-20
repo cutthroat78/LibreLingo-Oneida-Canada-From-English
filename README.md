@@ -6,7 +6,7 @@ A Librelingo Course to learn the Oneida Language from English
 - [ ] greetings
 - [ ] numbers (1-10)
 - [ ] colours
-- [ ] _
+- [ ] introducing yourself
 - [ ] grammar 1:
 - [ ] writing system
 - - [ ] Remember to add alternative symbols to intro pronunciation guide
