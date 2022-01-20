@@ -143,7 +143,7 @@ A Librelingo Course to learn the Oneida Language from English
 - [ ] Bedroom Words
 ### Oneida (Ukwehuwehnéha) Basic
 - [ ] Sounds of letters
-- [x] Greetings
+- [ ] Greetings
 - [ ] Introducing yourself
 - [ ] Asking questions
 - [ ] Clans & Nationalities
