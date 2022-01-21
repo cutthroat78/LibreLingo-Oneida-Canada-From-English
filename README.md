@@ -2,14 +2,14 @@
 A Librelingo Course to learn the Oneida Language from English
 
 # Plan
-vocabulary 1:
+## Vocabulary 1:
 - [ ] greetings
 - [ ] introducing yourself and others
 - [ ] numbers (1-10)
 - [ ] colours
 - [ ] Animals
 - [ ] clothing
-grammar 1:
+## Grammar 1:
 - [ ] writing system
 - - [ ] Remember to add alternative symbols to intro pronunciation guide
 - - [ ] Standardize Symbols (Like change words, phrases and everything else to have the glottal stop sounds be "ʔ" instead of "’")
