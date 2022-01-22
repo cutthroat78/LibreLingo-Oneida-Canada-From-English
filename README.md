@@ -4,6 +4,9 @@ A Librelingo Course to learn the Oneida Language from English
 # I am sorry for this repo being a bit of a mess, I haven't had time to sort things out
 
 # Plan
+
+Do something somewhere about the keyman oneida keyboard
+
 ## Vocabulary 1:
 - [ ] greetings
 - [ ] introducing yourself and others
