@@ -1,0 +1,2 @@
+- name: LibreLingo Course Continuous Integration
+  uses: LibreLingo/course-ci@v1.1.0
