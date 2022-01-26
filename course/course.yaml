@@ -1,0 +1,32 @@
+# This file contains generic meta-data about the course
+
+Course:
+  Language:
+    Name: Oneida
+    IETF BCP 47: one
+  For speakers of:
+    Name: English
+    IETF BCP 47: en
+  License:
+    Name: Attribution-ShareAlike 4.0 International
+    Short name: CC BY-SA 4.0
+    Link: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+  Repository: https://github.com/cutthroat78/Librelingo-Oneida-From-English
+  Special characters:
+  - "ˀ"
+  - "ʔ"
+  - "’"
+  - "ʼ"
+  - "ʌ"
+  - "ʌ́"
+  - "Ʌ́"
+  - "Ʌ"
+  - "á"
+  - "é"
+  - "í"
+  - "ó"
+  - "ú"
+  - "·"
+ # Unicode Number: U+0332
+
+Modules:
