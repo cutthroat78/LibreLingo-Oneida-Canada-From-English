@@ -4,20 +4,12 @@ A Librelingo Course to learn the Oneida Language from English
 # I am sorry for this repo being a bit of a mess, I haven't had time to sort things out
 
 # Plan
-
-Do something somewhere about the keyman oneida keyboard
-
-## Vocabulary 1:
-- [ ] greetings
-- [ ] introducing yourself and others
-- [ ] numbers (1-10)
-- [ ] colours
-- [ ] Animals
-- [ ] clothing
-## Grammar 1:
-- [ ] writing system
-- - [ ] Remember to add alternative symbols to intro pronunciation guide
-- - [ ] Standardize Symbols (Like change words, phrases and everything else to have the glottal stop sounds be "ʔ" instead of "’")
+## Vocabulary:
+- [ ] Greetings
+## Grammar:
+- [ ] Writing System
+  - [ ] Do something somewhere about the keyman oneida keyboard
+- [ ] 
 
 # Vocab Topics
 ## oneidalanguage.ca:
