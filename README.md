@@ -1,15 +1,9 @@
 # Librelingo-Oneida-From-English
 A Librelingo Course to learn the Oneida Language from English
 
-# I am sorry for this repo being a bit of a mess, I haven't had time to sort things out
-
-# Plan
-## Vocabulary:
-- [ ] Greetings
-## Grammar:
-- [ ] Writing System
-  - [ ] Do something somewhere about the keyman oneida keyboard
-- [ ] 
+# To Do:
+- [ ] Convert resources I have to LibreLingo skills
+- [ ] Sort out skills and make a course structure
 
 # Vocab Topics
 ## oneidalanguage.ca:
@@ -51,7 +45,7 @@ A Librelingo Course to learn the Oneida Language from English
 - [ ] Garden vegetable
 - [ ] General conversation
 - [ ] getting dressed
-- [ ] Greetings
+- [x] Greetings
 - [ ] halloween fun
 - [ ] handy workplace greetings
 - [ ] Harvest
@@ -84,6 +78,9 @@ A Librelingo Course to learn the Oneida Language from English
 - [ ] Trees
 - [ ] Weather
 - [ ] Where are you going?
+### Not in Oneida Words & Phrases page
+- [ ] Speak Oneida Now
+  - [x] Oneida Greetings
 ## University of Wisconsin:
 - [ ] animals
 - [ ] clothing, apparel
@@ -126,19 +123,3 @@ A Librelingo Course to learn the Oneida Language from English
 - [ ] weather
 - [ ] whole actions
 - [ ] working with the environment
-
-# Sources
-## Vocab/Words:
-* [Learn Our Language | Oneida](https://oneidalanguage.ca/learn-our-language/)
-* [About the Oneida Langage - Oneida Language - UW - Green Bay](https://www.uwgb.edu/oneida/about-the-oneida-langage/)
-* [Oneida Nation | Language](https://oneida-nsn.gov/our-ways/language/)
-* [Speak Oneida - Part 1](https://play.google.com/store/apps/details?id=com.languagepal.androidoneidawisconsin&hl=en&gl=US)
-* [Speak Oneida 2](https://play.google.com/store/apps/details?id=com.languagepal.oneida2android)
-* [Basic Oneida 1 - Memrise](https://app.memrise.com/course/1844061/basic-oneida-1/)
-* [Oneida (Ukwehuwehnéha) Basic - Memrise](https://app.memrise.com/course/5698147/oneida-ukwehuwehneha-basic/)
-* [Oneida Language Study - Memrise](https://app.memrise.com/course/5772626/oneida-language-study/)
-## Grammar:
-* [About the Oneida Langage - Oneida Language - UW - Green Bay](https://www.uwgb.edu/oneida/about-the-oneida-langage/)
-* [Speak Oneida - Part 1](https://play.google.com/store/apps/details?id=com.languagepal.androidoneidawisconsin&hl=en&gl=US)
-* [Speak Oneida 2](https://play.google.com/store/apps/details?id=com.languagepal.oneida2android)
-* [Omniglot](http://omniglot.com/writing/oneida.htm)
