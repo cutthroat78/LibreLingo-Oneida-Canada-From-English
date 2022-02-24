@@ -54,7 +54,7 @@
 - [ ] morning routine
 - [ ] Name titles
 - [ ] Nature
-- [ ] Objects
+- [x] Objects
 - [ ] office reception
 - [ ] Oneida Language Proficiency
 - [ ] Plants
