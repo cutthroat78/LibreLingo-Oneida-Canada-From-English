@@ -60,7 +60,7 @@ Phrases:
     Alternative translations:
     - "{What's your name?}"
 
-  - Phrase: "{Barbara ní: yukyats}"
+  - Phrase: "Barbara {ní: yukyats}"
     Translation: "{My name is} Barbara"
     Alternative translations:
     - "Barbara {is my name}"
