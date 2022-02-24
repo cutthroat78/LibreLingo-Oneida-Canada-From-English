@@ -56,7 +56,7 @@
 - [ ] Nature
 - [x] Objects
 - [ ] office reception
-- [ ] Oneida Language Proficiency
+- [x] Oneida Language Proficiency
 - [ ] Plants
 - [ ] public reply or in-office reply
 - [ ] request for service
