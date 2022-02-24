@@ -7,10 +7,13 @@ New words:
     Translation: Hello
 
   - Word: "nʌki’wah"
-    Translation: See you again
+    Translation: "{See you again}"
 
   - Word: "nʌki’wah"
     Translation: Goodbye
+
+  - Word: "nʌki’wah"
+    Translation: "{See you later}"
 
 Phrases:
   - Phrase: "{sʌnʌsliyóste̲’}"
@@ -65,9 +68,6 @@ Phrases:
     Alternative translations:
     - "Barbara {is my name}"
 
-  - Phrase: "{nʌki’wah}"
-    Translation: "{See you later}"
-
 Mini-dictionary:
   Oneida: 
     - "sʌnʌsliyóste̲’": 
@@ -105,8 +105,12 @@ Mini-dictionary:
     - "ní: yukyats": 
       - My name is
       - is my name
-    - "nʌki’wah": See you later
     - Barbara: Barbara (name)
+    - "nʌki’wah": 
+      - See you again
+      - Goodbye
+      - See you later
+    - "shékoli": Hello
 
   English:
     - Barbara: Barbara (name)
@@ -144,3 +148,6 @@ Mini-dictionary:
     - My name is: "ní: yukyats"
     - is my name: "ní: yukyats"
     - See you later: "nʌki’wah"
+    - See you again: "nʌki’wah"
+    - Goodbye: "nʌki’wah"
+    - Hello: "shékoli"
