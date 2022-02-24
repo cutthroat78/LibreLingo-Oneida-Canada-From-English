@@ -2,4 +2,5 @@ Module:
   Name: "Skills to sort from oneidalanguage.ca"
 
 Skills:
-  - 
+  - objects-1.yaml
+  - objects-2.yaml 
