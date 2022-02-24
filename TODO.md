@@ -16,7 +16,7 @@
 - [ ] Cheering a sport
 - [ ] children songs
 - [ ] clothing
-- [ ] colours
+- [x] colours
 - [ ] Community Places
 - [ ] cultural
 - [ ] Days of week
@@ -38,6 +38,7 @@
 - [ ] General conversation
 - [ ] getting dressed
 - [x] Greetings
+  - [ ] Do Mini-Dictionary
 - [ ] halloween fun
 - [ ] handy workplace greetings
 - [ ] Harvest
