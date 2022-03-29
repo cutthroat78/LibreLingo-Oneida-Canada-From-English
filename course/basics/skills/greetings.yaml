@@ -3,151 +3,151 @@ Skill:
   Name: "Greetings"
 
 New words:
-  - Word: 'shékoli'
+  - Word: "shékoli"
     Translation: Hello
 
-  - Word: 'nʌki’wah'
+  - Word: "nʌki’wah"
     Translation: "{See you again}"
 
-  - Word: 'nʌki’wah'
+  - Word: "nʌki’wah"
     Translation: Goodbye
 
-  - Word: 'nʌki’wah'
+  - Word: "nʌki’wah"
     Translation: "{See you later}"
 
 Phrases:
-  - Phrase: '{sʌnʌsliyóste̲’}'
+  - Phrase: "{sʌnʌsliyóste̲’}"
     Translation: "{Have a good day}"
     Alternative translations:
     - "{You have a good day}"
 
-  - Phrase: '{wakatshanu:ní tsi’ sakúk}'
+  - Phrase: "{wakatshanu:ní tsi’ sakúk}"
     Translation: "{I am happy to see you}"
     Alternative translations:
     - "{I'm happy to see you}"
 
-  - Phrase: '{sata’kalíte: kʌ}'
+  - Phrase: "{sata’kalíte: kʌ}"
     Alternative versions:
-    - '{sata’kalí:te: kʌ}'
+    - "{sata’kalí:te: kʌ}"
     Translation: "{Are you well?}"
 
-  - Phrase: '{skʌna’kó: kʌ́}'
+  - Phrase: "{skʌna’kó: kʌ́}"
     Translation: "{Are you at peace?}"
 
-  - Phrase: '{ohniyotuháti}'
+  - Phrase: "{ohniyotuháti}"
     Translation: "{How's it going?}"
     Alternative translations:
     - "{How is it going?}"
 
-  - Phrase: '{wakata’kalité: ki}'
+  - Phrase: "{wakata’kalité: ki}"
     Alternative versions:
-    - '{wakata’kalí:te: kih}'
+    - "{wakata’kalí:te: kih}"
     Translation: "{I am well}"
     Alternative translations:
     - "{I'm well}"
 
-  - Phrase: '{yah te’wakata’kalíte̲}'
+  - Phrase: "{yah te’wakata’kalíte̲}"
     Alternative versions:
-    - '{yah te’wakata’kalí:te̲}'
+    - "{yah te’wakata’kalí:te̲}"
     Translation: "{I'm not well}"
     Alternative translations:
     - "{I am not well}"
     - "{No, I'm not well}"
     - "{No, I am not well}"
 
-  - Phrase: '{ohniyotuhati nu’ú:wa̲’}'
+  - Phrase: "{ohniyotuhati nu’ú:wa̲’}"
     Translation: "{What’s going on today?}"
 
-  - Phrase: '{náhte’ yesa:yáts}'
+  - Phrase: "{náhte’ yesa:yáts}"
     Translation: "{What is your name?}"
     Alternative translations:
     - "{What's your name?}"
 
-  - Phrase: 'Barbara {ní: yukyats}'
+  - Phrase: "Barbara {ní: yukyats}"
     Translation: "{My name is} Barbara"
     Alternative translations:
     - "Barbara {is my name}"
 
 Mini-dictionary:
   Oneida: 
-    - 'sʌnʌsliyóste̲’': 
+    - "sʌnʌsliyóste̲’": 
       - Have a good day
       - You have a good day
-    - 'wakatshanu:ní tsi’ sakúk': 
+    - "wakatshanu:ní tsi’ sakúk": 
       - I am happy to see you
-      - I'm happy to see you
-    - 'sata’kalíte: kʌ': Are you well?
-    - 'sata’kalí:te: kʌ': Are you well?
-    - 'skʌna’kó: kʌ́': Are you at peace?
-    - 'ohniyotuháti':
-      - How's it going?
+      - I"m happy to see you
+    - "sata’kalíte: kʌ": Are you well?
+    - "sata’kalí:te: kʌ": Are you well?
+    - "skʌna’kó: kʌ́": Are you at peace?
+    - "ohniyotuháti":
+      - How"s it going?
       - How is it going?
-    - 'wakata’kalité: ki':
+    - "wakata’kalité: ki":
       - I am well
-      - I'm well
-    - 'wakata’kalí:te: kih':
+      - I"m well
+    - "wakata’kalí:te: kih":
       - I am well
-      - I'm well
-    - 'yah te’wakata’kalíte̲':
+      - I"m well
+    - "yah te’wakata’kalíte̲":
       - I am not well
-      - I'm not well
-      - No, I'm not well
+      - I"m not well
+      - No, I"m not well
       - No, I am not well
-    - 'yah te’wakata’kalí:te̲':
+    - "yah te’wakata’kalí:te̲":
       - I am not well
-      - I'm not well
-      - No, I'm not well
+      - I"m not well
+      - No, I"m not well
       - No, I am not well
-    - 'ohniyotuhati nu’ú:wa̲’': What’s going on today?
-    - 'náhte’ yesa:yáts':
+    - "ohniyotuhati nu’ú:wa̲’": What’s going on today?
+    - "náhte’ yesa:yáts":
       - What is your name?
-      - What's your name?
-    - 'ní: yukyats': 
+      - What"s your name?
+    - "ní: yukyats": 
       - My name is
       - is my name
     - Barbara: Barbara (name)
-    - 'nʌki’wah': 
+    - "nʌki’wah": 
       - See you again
       - Goodbye
       - See you later
-    - 'shékoli': Hello
+    - "shékoli": Hello
 
   English:
     - Barbara: Barbara (name)
-    - Have a good day: 'sʌnʌsliyóste̲’'
-    - You have a good day: 'sʌnʌsliyóste̲’'
-    - I am happy to see you: 'wakatshanu:ní tsi’ sakúk'
-    - I'm happy to see you: 'wakatshanu:ní tsi’ sakúk'
+    - Have a good day: "sʌnʌsliyóste̲’"
+    - You have a good day: "sʌnʌsliyóste̲’"
+    - I am happy to see you: "wakatshanu:ní tsi’ sakúk"
+    - I"m happy to see you: "wakatshanu:ní tsi’ sakúk"
     - Are you well?:
-      - 'sata’kalíte: kʌ'
-      - 'sata’kalí:te: kʌ'
-    - Are you at peace?: 'skʌna’kó: kʌ́'
-    - How's it going?: 'ohniyotuháti'
-    - How is it going?: 'ohniyotuháti'
+      - "sata’kalíte: kʌ"
+      - "sata’kalí:te: kʌ"
+    - Are you at peace?: "skʌna’kó: kʌ́"
+    - How"s it going?: "ohniyotuháti"
+    - How is it going?: "ohniyotuháti"
     - I am well: 
-      - 'wakata’kalité: ki'
-      - 'wakata’kalí:te: kih'
-    - I'm well: 
-      - 'wakata’kalité: ki'
-      - 'wakata’kalí:te: kih'
+      - "wakata’kalité: ki"
+      - "wakata’kalí:te: kih"
+    - I"m well: 
+      - "wakata’kalité: ki"
+      - "wakata’kalí:te: kih"
     - I am not well:
-      - 'yah te’wakata’kalíte̲'
-      - 'yah te’wakata’kalí:te̲'
-    - I'm not well:
-      - 'yah te’wakata’kalíte̲'
-      - 'yah te’wakata’kalí:te̲'
-    - No, I'm not well:
-      - 'yah te’wakata’kalíte̲'
-      - 'yah te’wakata’kalí:te̲'
+      - "yah te’wakata’kalíte̲"
+      - "yah te’wakata’kalí:te̲"
+    - I"m not well:
+      - "yah te’wakata’kalíte̲"
+      - "yah te’wakata’kalí:te̲"
+    - No, I"m not well:
+      - "yah te’wakata’kalíte̲"
+      - "yah te’wakata’kalí:te̲"
     - No, I am not well:
-      - 'yah te’wakata’kalíte̲'
-      - 'yah te’wakata’kalí:te̲'
-    - What’s going on today?: 'ohniyotuhati nu’ú:wa̲’'
-    - What is your name?: 'náhte’ yesa:yáts'
-    - What's your name?: 'náhte’ yesa:yáts'
-    - My name is: 'ní: yukyats'
-    - is my name: 'ní: yukyats'
-    - See you later: 'nʌki’wah'
-    - See you again: 'nʌki’wah'
-    - Goodbye: 'nʌki’wah'
-    - Hello: 'shékoli'
+      - "yah te’wakata’kalíte̲"
+      - "yah te’wakata’kalí:te̲"
+    - What’s going on today?: "ohniyotuhati nu’ú:wa̲’"
+    - What is your name?: "náhte’ yesa:yáts"
+    - What"s your name?: "náhte’ yesa:yáts"
+    - My name is: "ní: yukyats"
+    - is my name: "ní: yukyats"
+    - See you later: "nʌki’wah"
+    - See you again: "nʌki’wah"
+    - Goodbye: "nʌki’wah"
+    - Hello: "shékoli"
