@@ -1,5 +1,6 @@
 # https://www.geeksforgeeks.org/python-web-scraping-tutorial/
 # https://stackoverflow.com/questions/59539194/how-to-download-all-mp3-url-as-mp3-from-a-webpage-using-python3
+# https://stackoverflow.com/questions/52762525/convert-python-dictionary-to-yaml
 
 import requests
 from bs4 import BeautifulSoup
