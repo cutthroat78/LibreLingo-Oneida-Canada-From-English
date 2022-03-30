@@ -3,9 +3,16 @@
 
 import requests
 from bs4 import BeautifulSoup
+import yaml
+from pprint import pprint
  
 link = input("Webpage Link: ")
 skill = input("Skill Name: ")
+id = 1 # figure out
+
+skill_header = {'Skill': {'Id': 'id', 'Name': 'skill_name'}}
+
+phrase_part = {'Phrases': [{'Phrase': 'oneida_word', 'Translation': 'english_word'}]}
 
 # Making a GET request
 r = requests.get(link)
