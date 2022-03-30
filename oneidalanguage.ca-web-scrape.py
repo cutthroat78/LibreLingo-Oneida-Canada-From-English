@@ -1,36 +1,43 @@
-# https://www.geeksforgeeks.org/python-web-scraping-tutorial/
-# https://stackoverflow.com/questions/59539194/how-to-download-all-mp3-url-as-mp3-from-a-webpage-using-python3
-# https://stackoverflow.com/questions/52762525/convert-python-dictionary-to-yaml
-
-import requests
+import requests, uuid, pprint, os, sys
 from bs4 import BeautifulSoup
-import yaml
-from pprint import pprint
- 
-link = input("Webpage Link: ")
-skill = input("Skill Name: ")
-id = 1 # figure out
 
-skill_header = {'Skill': {'Id': 'id', 'Name': 'skill_name'}}
-
-phrase_part = {'Phrases': [{'Phrase': 'oneida_word', 'Translation': 'english_word'}]}
+skill = sys.argv[1]
+link = sys.argv[2]
 
 # Making a GET request
 r = requests.get(link)
- 
+
 # Parsing the HTML
 soup = BeautifulSoup(r.content, 'html.parser')
 
-# Find and sort files into csv format
 oneida_word = soup.find_all('p', class_= 'oneida')
-english_word = soup.find_all('p', class_= 'english') 
-for one,eng in zip(oneida_word,english_word):
-    print (str(one.get_text()) + ","  + str(eng.get_text()))
-
-# Download audio files
+english_word = soup.find_all('p', class_= 'english')
+audio_links = []
 for tag in soup.find_all('a', class_= 'action primary'):
-    link = tag.get('href')
-    r = requests.get(link)
-    filename = tag['href'][tag['href'].rfind("/")+1:]
+    audio_links.append(tag.get('href'))
+
+skill_head = "Skill:\n  Id: id\n  Name: skill"
+skill_head = skill_head.replace("id",str(uuid.uuid4()))
+skill_head = skill_head.replace("skill", "\"" + skill + "\"")
+
+words_phrases = "\n\nNew words: []\n\nPhrases:\n"
+
+file = open(skill + ".yaml", "a")
+file.write(skill_head)
+file.write(words_phrases)
+
+if not os.path.exists("../../../audio/sort-oneidalangauge.ca/" + str(skill) + "/"):
+    os.makedirs("../../../audio/sort-oneidalangauge.ca/" + str(skill) + "/")
+
+for one,eng,url in zip(oneida_word,english_word,audio_links):
+    phrase_translation = "  - Phrase: oneida\n  Translation: english\n\n"
+    phrase_translation = phrase_translation.replace("oneida","\"" + str(one.get_text()) + "\"")
+    phrase_translation = phrase_translation.replace("english","\"" + str(eng.get_text()) + "\"")
+    file.write(phrase_translation)
+    r = requests.get(url)
+    filename = one.get_text() + ".mp3"
     with open(filename, 'wb') as f:
         f.write(r.content)
+    os.rename("./" + str(one.get_text()) + ".mp3", "../../../audio/sort-oneidalangauge.ca/" + str(skill) + "/" + str(one.get_text()) + ".mp3")
+
+file.close()
