@@ -4,9 +4,11 @@
 import requests
 from bs4 import BeautifulSoup
  
- 
+link = input("Webpage Link: ")
+skill = input("Skill Name: ")
+
 # Making a GET request
-r = requests.get('https://oneidalanguage.ca/learn-our-language/oneidalanguage-words-phrases/?t_id=137')
+r = requests.get(link)
  
 # Parsing the HTML
 soup = BeautifulSoup(r.content, 'html.parser')
