@@ -1,4 +1,4 @@
-# Librelingo-Oneida-From-English
+# Librelingo Oneida (Canada) From English
 A Librelingo Course to learn the Oneida Language from English
 
 # To Do
